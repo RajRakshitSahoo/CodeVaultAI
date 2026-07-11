@@ -7,7 +7,7 @@ Write-Host "  ║     CodeVault AI - First Time Setup  ║" -ForegroundColor Cya
 Write-Host "  ╚══════════════════════════════════════╝" -ForegroundColor Cyan
 Write-Host ""
 
-# Check Python
+# Check Python 
 try {
     $pyver = python --version 2>&1
     Write-Host "  [OK] $pyver found" -ForegroundColor Green
