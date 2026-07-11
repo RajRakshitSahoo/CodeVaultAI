@@ -3,7 +3,7 @@
 
 Write-Host ""
 Write-Host "  ╔══════════════════════════════════════╗" -ForegroundColor Cyan
-Write-Host "  ║     CodeVault AI - First Time Setup  ║" -ForegroundColor Cyan
+Write-Host "  ║     CodeVault AI - First Time Setup  ║" -ForegroundColor Cyan 
 Write-Host "  ╚══════════════════════════════════════╝" -ForegroundColor Cyan
 Write-Host ""
 
