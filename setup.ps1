@@ -16,7 +16,7 @@ try {
     Read-Host "Press Enter to exit"
     exit 1
 }
-
+ 
 # Install packages
 Write-Host ""
 Write-Host "  Installing required packages..." -ForegroundColor Yellow
