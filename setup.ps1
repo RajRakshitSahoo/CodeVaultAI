@@ -8,7 +8,7 @@ Write-Host "  ╚═════════════════════
 Write-Host ""
 
 # Check Python 
-try {
+try { 
     $pyver = python --version 2>&1
     Write-Host "  [OK] $pyver found" -ForegroundColor Green
 } catch {
